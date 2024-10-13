@@ -1,0 +1,7 @@
+D:\system-files\desktop\Cleanmgr-2024\YConsole\YConsole\bin\Debug\YConsole.exe.config
+D:\system-files\desktop\Cleanmgr-2024\YConsole\YConsole\bin\Debug\YConsole.exe
+D:\system-files\desktop\Cleanmgr-2024\YConsole\YConsole\bin\Debug\YConsole.pdb
+D:\system-files\desktop\Cleanmgr-2024\YConsole\YConsole\obj\Debug\YConsole.csproj.AssemblyReference.cache
+D:\system-files\desktop\Cleanmgr-2024\YConsole\YConsole\obj\Debug\YConsole.csproj.CoreCompileInputs.cache
+D:\system-files\desktop\Cleanmgr-2024\YConsole\YConsole\obj\Debug\YConsole.exe
+D:\system-files\desktop\Cleanmgr-2024\YConsole\YConsole\obj\Debug\YConsole.pdb

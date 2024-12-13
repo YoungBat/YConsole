@@ -1,0 +1,10 @@
+D:\system-files\desktop\Project\YConsole\Feature\bin\Debug\Feature.dll
+D:\system-files\desktop\Project\YConsole\Feature\bin\Debug\Feature.pdb
+D:\system-files\desktop\Project\YConsole\Feature\obj\Debug\Feature.csproj.AssemblyReference.cache
+D:\system-files\desktop\Project\YConsole\Feature\obj\Debug\Feature.csproj.CoreCompileInputs.cache
+D:\system-files\desktop\Project\YConsole\Feature\obj\Debug\Feature.dll
+D:\system-files\desktop\Project\YConsole\YConsole\bin\Debug\Feature.dll
+D:\system-files\desktop\Project\CS\YConsole\YConsole\bin\Debug\Feature.dll
+D:\system-files\desktop\Project\CS\YConsole\Feature\obj\Debug\Feature.csproj.AssemblyReference.cache
+D:\system-files\desktop\Project\CS\YConsole\Feature\obj\Debug\Feature.csproj.CoreCompileInputs.cache
+D:\system-files\desktop\Project\CS\YConsole\Feature\obj\Debug\Feature.dll

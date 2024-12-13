@@ -1,0 +1,10 @@
+D:\system-files\desktop\Project\YConsole\YConsole\bin\Debug\YConsole.exe
+D:\system-files\desktop\Project\YConsole\YConsole\obj\Debug\YConsole.csproj.AssemblyReference.cache
+D:\system-files\desktop\Project\YConsole\YConsole\obj\Debug\YConsole.csproj.CoreCompileInputs.cache
+D:\system-files\desktop\Project\YConsole\YConsole\obj\Debug\YConsole.exe
+D:\system-files\desktop\Project\YConsole\YConsole\obj\Debug\YConsole.csproj.Up2Date
+D:\system-files\desktop\Project\CS\YConsole\YConsole\bin\Debug\YConsole.exe
+D:\system-files\desktop\Project\CS\YConsole\YConsole\obj\Debug\YConsole.csproj.AssemblyReference.cache
+D:\system-files\desktop\Project\CS\YConsole\YConsole\obj\Debug\YConsole.csproj.CoreCompileInputs.cache
+D:\system-files\desktop\Project\CS\YConsole\YConsole\obj\Debug\YConsole.csproj.Up2Date
+D:\system-files\desktop\Project\CS\YConsole\YConsole\obj\Debug\YConsole.exe
